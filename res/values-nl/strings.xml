@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">PMix</string>
+	<string name="artists">Artiesten</string>
+	<string name="playlists">Afspeellijsten</string>
+	<string name="files">Bestanden</string>
+	<string name="albums">Albums</string>
+	<string name="settings">Instellingen</string>
+	<string name="volume">Volume</string>
+	<string name="track">Track</string>
+	<string name="ok">OK</string>
+	<string name="serverAddress">Server Adres :</string>
+	<string name="playlist">Afspeellijst</string>
+	<string name="addAlbum">Album Toevoegen</string>
+	<string name="addArtist">Artiest Toevoegen</string>
+	<string name="removeSong">Liedje Verwijderen</string>
+	<string name="clear">Wissen</string>
+	<string name="addDirectory">Directory Toevoegen</string>
+	<string name="mainMenu">Hoofdmenu</string>
+	<string name="playlistCleared">Afspeellijst gewist</string>
+	<string name="deletedSongFromPlaylist">Liedje uit de afspeellijst verwijderd</string>
+	<string name="albumAdded">Album %s Toegevoegd</string>
+	<string name="addedDirectoryToPlaylist">Directory toegevoegd aan de afspeellijst</string>
+	<string name="artistAdded">Artiest Toegevoegd</string>
+	<string name="host">Host</string>
+	<string name="hostDescription">MPD-Server Hostnaam of IP-Adres</string>
+	<string name="port">Poort</string>
+	<string name="portDescription">MPD-Server poort (Standaard: 6600)</string>
+	<string name="password">Wachtwoord</string>
+	<string name="passwordDescription">Wachtwoord voor de Server</string>
+	<string name="random">Willekeurig</string>
+	<string name="randomDescription">Activeer/deactiveer Willekeurig</string>
+	<string name="repeat">Herhalen</string>
+	<string name="repeatDescription">Activeer/deactiveer herhalen</string>
+	<string name="version">Versie</string>
+	<string name="songs">Liedjes</string>
+	<string name="serverInformation">Server Informatie</string>
+	<string name="serverInformationDescription">Different MPD-Server information such as version, songcount...</string>
+	<string name="connectionSettings">Verbindings instellingen</string>
+	<string name="connectionSettingsDescription">Zet MPD-Host/Poort en wachtwoord</string>
+	<string name="outputs">Uitvoer</string>
+	<string name="outputsDescription">Activeer/deactiveer MPD-Uitvoer</string>
+	<string name="pmixSettings">PMix instellingen</string>
+	<string name="songAdded">Liedje %s Toegevoegd</string>
+	<string name="about">Over</string>
+	<string name="aboutDescription">Over PMix</string>
+	
+	<string name="loading">Laden</string>
+	<string name="loadingPlaylist">Bezig afspeellijst te laden, even geduld aub...</string>
+</resources>
